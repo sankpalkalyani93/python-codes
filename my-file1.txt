@@ -1,0 +1,8 @@
+Hello and Welcome to Python
+This session is all about files
+File is used to store data permanently in unformatted manner
+Files comes with following maiin operations:
+	1. opening a file
+	2. reading from file
+	3. writing to file
+	4. closing a file
